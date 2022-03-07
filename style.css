@@ -1,0 +1,29 @@
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/caret-left.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/caret-right.svg);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 50px;
+}
+
+.carousel-control-prev {
+    top: 800px;
+}
+
+.carousel-control-next {
+    top: 800px;
+}
+
+h2 {
+    padding-bottom: 20px;
+}
+
